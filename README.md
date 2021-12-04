@@ -7,12 +7,14 @@
 You can find me here :
 <p align="left">
   <a href="https://www.linkedin.com/in/ankita-sharma-83ab64146/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ankitasharma88990@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ankitasharma88990@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="https://twitter.com/Iam_Ankita__"><img title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+ </a>
 
 ## About Me
 Hi, This is Ankita!
-- 🔭 I am a rising engineer with majors in Computer Science from India.
-- 🌱 I am a Software Engineer in Bank of America GBS.
+- 🔭 I am an Engineer with majors in Computer Science from India.
+- 🌱 Working as Software Engineer in Bank of America GBS.
 - 👩‍💻 Former MSLA at Microsoft | Award holder at EconomicTimes | Member at [AnitaB_org](https://anitab.org/) | Writer | Speaker | CS Undergrad from VIT University.
 - 👩‍💻 I find my technical interests in Problem Solving, front-end development,Technical writing, Machine Learning and open source !. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
