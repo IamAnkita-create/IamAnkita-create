@@ -11,8 +11,9 @@ You can find me here :
 
 ## About Me
 Hi, This is Ankita!
-- 🔭 I am a rising engineer with majors in Computer Science from India!.
-- 🌱 I am currently working as Software Engineer in Bank of America.
+- 🔭 I am a rising engineer with majors in Computer Science from India.
+- 🌱 I am a Software Engineer in Bank of America GBS.
+- 👩‍💻 Former MSLA at Microsoft | Award holder at EconomicTimes | Member at [AnitaB_org](https://anitab.org/) | Writer | Speaker | CS Undergrad from VIT University.
 - 👩‍💻 I find my technical interests in Problem Solving, front-end development,Technical writing, Machine Learning and open source !. 
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
   
