@@ -23,9 +23,9 @@ Hi, This is Ankita!
 - Arctic Code Vault Contributor
   
  ## Publications (I also write sometimes, as a Medium Writer):
-  -One of my best Articles on Self Confidence and Overcoming stage fear [Wanna be one in crowd? Well let’s talk about it!!](https://ankitasharma88990.medium.com/)
-  -[Performing Analysis of Meteorological Data](https://ankitasharma88990.medium.com/performing-analysis-of-meteorological-data-90625eccb6a3)
-  -[Recognizing Handwritten Digits with scikit-learn](https://ankitasharma88990.medium.com/recognizing-handwritten-digits-with-scikit-learn-34ce0705e468)
+  -One of my best Articles on Self Confidence and Overcoming stage fear [Wanna be one in crowd? Well let’s talk about it!!](https://ankitasharma88990.medium.com/).
+  -[Performing Analysis of Meteorological Data](https://ankitasharma88990.medium.com/performing-analysis-of-meteorological-data-90625eccb6a3).
+  -[Recognizing Handwritten Digits with scikit-learn](https://ankitasharma88990.medium.com/recognizing-handwritten-digits-with-scikit-learn-34ce0705e468).
   
    
 ## Tech Stack
