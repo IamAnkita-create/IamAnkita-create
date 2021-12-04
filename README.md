@@ -9,6 +9,23 @@ You can find me here :
   <a href="https://www.linkedin.com/in/ankita-sharma-83ab64146/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ankitasharma88990@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+## About Me
+Hi, This is Ankita!
+- 🔭 I am a rising engineer with majors in Computer Science from India!.
+- 🌱 I am currently working as Software Engineer in Bank of America.
+- 👩‍💻 I find my technical interests in Problem Solving, front-end development,Technical writing, Machine Learning and open source !. 
+- 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
+  
+ ## Experience 
+- [Microsoft Student Learn Ambassador](https://studentambassadors.microsoft.com/)! - As a Student Partners are a global group of on-campus ambassadors who are eager to help fellow students, lead in their local tech community, and develop technical and career skills for the future.
+- Recognised with [Economic Times Digital Campus Star Award](https://economictimes.indiatimes.com/etcampusstars/pasteditions)! and be featured in the coveted list of the brightest engineering minds in the country (April 2020)
+- Speaker at [Microsoft Build 2020](https://mybuild.microsoft.com/home) on Make code Minecraft Python in the Students Zone.
+- Arctic Code Vault Contributor
+  
+ ## Publications (I also write sometimes, as a Medium Writer):
+  -One of my best Articles on Self Confidence and Overcoming stage fear [Wanna be one in crowd? Well let’s talk about it!!](https://ankitasharma88990.medium.com/)
+  -[Performing Analysis of Meteorological Data](https://ankitasharma88990.medium.com/performing-analysis-of-meteorological-data-90625eccb6a3)
+  -[Recognizing Handwritten Digits with scikit-learn](https://ankitasharma88990.medium.com/recognizing-handwritten-digits-with-scikit-learn-34ce0705e468)
   
    
 ## Tech Stack
