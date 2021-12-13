@@ -1,4 +1,8 @@
-### Hi there 👋
+<h4 align="center"> 
+<h1 align="center">Hi <img src="pics/Hi.gif" width="29px"/>, I'm Ankita Sharma </h1>
+<img src="pics/octo.gif" width="100px" height="100px"></img> <br><br>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)](https://git.io/typing-svg)
+  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
 
 <!--
 **ankitasharma88990/ankitasharma88990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,5 +73,19 @@ Hi, This is Ankita!
 
 <a href="https://github.com/ankitasharma88990">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitasharma88990&theme=tokyonight&layout=compact&" />
-</a>
+</a
+  
+ <p align="center"> 
+ 
+<div align="center">
+  <h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=chhabraharsh37&theme=monokai&row=1&column=8">
+  </a>
+</div><hr>
+
+![GitHub metrics](https://metrics.lecoq.io/chhabraharsh37?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
+
+## Badges
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
